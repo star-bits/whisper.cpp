@@ -3,6 +3,7 @@
 ## To run:
 ```shell
 git clone https://github.com/star-bits/whisper.cpp.git
+cd whisper.cpp
 
 # download model
 bash ./models/download-ggml-model.sh base.en
